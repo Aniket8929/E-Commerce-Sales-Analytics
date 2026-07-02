@@ -1,0 +1,301 @@
+product_id,product_name,category_id,price,cost_price
+1,Smartwatch,3,31120,26689
+2,Running shoes,1,1878,1198
+3,Running shoes,5,41103,26472
+4,Wireless earbuds,2,10147,6378
+5,T-shirt,1,5873,5212
+6,Wireless earbuds,5,53260,34105
+7,Backpack,5,33627,23334
+8,Water bottle,5,28215,22517
+9,Bedsheets,1,13201,9308
+10,Gaming mouse,1,35044,22883
+11,Wireless earbuds,3,42790,33412
+12,Water bottle,5,8421,5966
+13,Smartphone,1,10970,9417
+14,Laptop,5,34183,29888
+15,Backpack,2,4653,3479
+16,Smartwatch,1,29553,19922
+17,Bluetooth speaker,6,37431,29926
+18,Printer,1,49329,31936
+19,Printer,6,10903,9039
+20,Wireless earbuds,6,37321,29436
+21,Smartphone,4,39695,29757
+22,Backpack,5,203,145
+23,Backpack,2,6354,5749
+24,Backpack,6,2957,2483
+25,Backpack,2,36960,25120
+26,Smartwatch,1,29810,21223
+27,Laptop,5,17209,15349
+28,Office chair,5,3119,1977
+29,Running shoes,2,47550,36684
+30,Printer,1,35179,23880
+31,Laptop,2,36261,31147
+32,Bluetooth speaker,4,25015,21174
+33,Smartwatch,2,27990,22361
+34,Printer,5,39477,26532
+35,Gaming mouse,4,14956,9378
+36,Bedsheets,4,21210,14375
+37,Bluetooth speaker,6,49593,38966
+38,Smartwatch,1,6437,5657
+39,Gaming mouse,4,38562,29652
+40,T-shirt,1,30557,25762
+41,Bluetooth speaker,6,26159,17824
+42,Bluetooth speaker,4,15441,13605
+43,Backpack,2,37918,29923
+44,Coffee maker,3,61504,39779
+45,Gaming mouse,6,45316,37855
+46,Printer,3,43464,27364
+47,Smartwatch,1,627,549
+48,Wireless earbuds,5,22970,20350
+49,Water bottle,1,25642,16894
+50,T-shirt,4,673,499
+51,Bedsheets,3,19130,13547
+52,Gaming mouse,6,50437,35044
+53,Coffee maker,6,5104,4010
+54,Running shoes,6,35432,23974
+55,Perfume,2,29530,22866
+56,Office chair,3,33214,27531
+57,Office chair,1,4468,3287
+58,T-shirt,2,34094,28116
+59,Coffee maker,3,17582,11853
+60,Running shoes,6,28337,25677
+61,Printer,6,40185,33634
+62,Smartwatch,2,8000,5898
+63,Running shoes,3,42295,38361
+64,Bluetooth speaker,1,12375,9013
+65,Backpack,3,21666,16133
+66,Office chair,2,46619,35100
+67,Water bottle,5,46319,37712
+68,Perfume,4,46612,33344
+69,Office chair,5,42541,29348
+70,Backpack,5,25054,16233
+71,Office chair,6,24990,16742
+72,Laptop,1,38766,27795
+73,Gaming mouse,4,20805,14464
+74,Bedsheets,2,27458,19688
+75,Bedsheets,1,41073,26470
+76,Smartwatch,5,40122,26924
+77,Backpack,4,9498,8084
+78,Smartwatch,3,34921,23699
+79,Coffee maker,2,37354,28872
+80,Running shoes,1,34745,25255
+81,Bluetooth speaker,5,11918,7945
+82,Coffee maker,4,26910,24378
+83,Perfume,6,2655,2392
+84,Office chair,4,39009,27684
+85,Bedsheets,5,32079,29046
+86,Bluetooth speaker,3,39791,26238
+87,Laptop,4,8649,5455
+88,Backpack,2,45819,36647
+89,Bluetooth speaker,4,15985,12804
+90,Perfume,2,8058,7180
+91,Laptop,4,5445,4033
+92,Water bottle,3,55815,38267
+93,Backpack,6,1227,1109
+94,Coffee maker,3,12613,11308
+95,Bedsheets,3,50917,32165
+96,Water bottle,6,42524,31796
+97,Coffee maker,4,22843,20200
+98,Coffee maker,6,7955,6491
+99,Smartwatch,6,30566,26898
+100,Smartphone,4,38515,32111
+101,T-shirt,6,34127,23593
+102,Bedsheets,3,34264,22606
+103,Coffee maker,6,30680,19466
+104,Printer,1,36771,24596
+105,Bedsheets,6,58191,36869
+106,T-shirt,5,32442,20365
+107,Bluetooth speaker,6,7270,4953
+108,Office chair,5,42702,27924
+109,Coffee maker,1,34770,25333
+110,Water bottle,3,18913,12645
+111,Water bottle,4,34504,29642
+112,Bluetooth speaker,5,1277,951
+113,Wireless earbuds,4,12504,10752
+114,Gaming mouse,2,48970,31461
+115,Smartwatch,5,50075,34797
+116,Running shoes,5,34133,27513
+117,Smartwatch,2,56982,39506
+118,Backpack,5,4468,4022
+119,Office chair,4,53650,35660
+120,Office chair,2,42741,28740
+121,Backpack,4,27330,21753
+122,Water bottle,5,31733,27801
+123,Wireless earbuds,4,9738,6696
+124,Bedsheets,5,34783,24300
+125,Running shoes,1,7387,5039
+126,Bedsheets,5,9076,5706
+127,Running shoes,1,57796,39771
+128,Water bottle,5,44278,37773
+129,T-shirt,2,20553,18414
+130,Smartphone,6,22301,18375
+131,Smartphone,4,17808,15273
+132,Water bottle,5,10298,6503
+133,Bedsheets,5,9015,7049
+134,Perfume,5,48040,39864
+135,Printer,2,33627,21783
+136,Smartwatch,1,35115,22567
+137,T-shirt,3,19275,15636
+138,Perfume,2,31968,26272
+139,Bluetooth speaker,2,4361,3527
+140,Printer,5,12078,9746
+141,Laptop,5,11295,7890
+142,Coffee maker,4,8391,5826
+143,Wireless earbuds,5,39359,28723
+144,Bluetooth speaker,2,36982,24882
+145,Gaming mouse,6,14159,8878
+146,Smartwatch,6,44061,31001
+147,Running shoes,2,21888,14165
+148,Coffee maker,6,22817,17359
+149,Perfume,6,44497,31082
+150,Printer,6,50769,33061
+151,Smartphone,4,29813,25208
+152,Backpack,5,50000,35676
+153,Smartphone,1,20486,15343
+154,Gaming mouse,1,59282,38108
+155,Water bottle,6,44199,28670
+156,Printer,5,333,229
+157,Gaming mouse,6,54517,38268
+158,Printer,2,16332,13243
+159,Printer,2,42494,34379
+160,T-shirt,2,3707,2428
+161,Gaming mouse,6,51332,32804
+162,Perfume,2,10997,8086
+163,Water bottle,2,61542,38564
+164,Wireless earbuds,6,15660,11430
+165,Backpack,1,48697,35961
+166,Coffee maker,6,21952,14396
+167,Smartwatch,5,3828,3281
+168,Wireless earbuds,5,50438,35861
+169,Smartwatch,5,3794,3371
+170,Laptop,4,51011,36021
+171,Running shoes,5,56310,39172
+172,T-shirt,2,46642,38490
+173,Gaming mouse,1,45422,32713
+174,Perfume,5,31885,24089
+175,Water bottle,3,30654,20812
+176,Printer,6,8055,6210
+177,Perfume,6,5096,3318
+178,Office chair,5,21464,18551
+179,Perfume,6,37353,33318
+180,T-shirt,6,18252,14935
+181,Smartwatch,4,38918,24637
+182,Wireless earbuds,5,5023,3771
+183,Bedsheets,6,5615,4129
+184,Printer,5,29620,19032
+185,Smartphone,1,5724,4098
+186,Laptop,3,52249,35743
+187,Printer,4,38366,28096
+188,Smartwatch,6,21947,14108
+189,Gaming mouse,1,17078,14456
+190,Gaming mouse,1,41293,35052
+191,Running shoes,3,39204,28846
+192,Smartphone,5,20705,17696
+193,Perfume,6,9112,6435
+194,Gaming mouse,1,22730,18552
+195,Laptop,1,48433,34462
+196,T-shirt,3,45536,38076
+197,Backpack,5,40802,32751
+198,Office chair,3,37883,25353
+199,T-shirt,3,7484,6119
+200,Wireless earbuds,3,41731,35335
+201,Water bottle,4,46768,37268
+202,Smartphone,4,3239,2799
+203,Water bottle,3,39718,33870
+204,Bluetooth speaker,6,44301,39106
+205,Office chair,1,4390,3526
+206,Bedsheets,4,18500,13448
+207,T-shirt,6,16173,12599
+208,Backpack,5,52950,38239
+209,Backpack,5,40501,28967
+210,T-shirt,6,35911,22484
+211,Perfume,1,17305,13034
+212,Office chair,1,19947,17785
+213,Smartwatch,1,52261,37172
+214,Water bottle,4,37588,27383
+215,Perfume,6,39322,27199
+216,Backpack,1,40558,36204
+217,Office chair,5,35430,27077
+218,Gaming mouse,1,25576,18976
+219,Running shoes,2,61912,39331
+220,Running shoes,6,10955,8222
+221,Running shoes,3,22217,14609
+222,Coffee maker,4,24752,17915
+223,Coffee maker,4,33348,22784
+224,Perfume,4,19882,15084
+225,Running shoes,4,48014,38336
+226,Water bottle,1,21264,16120
+227,Printer,3,8722,7212
+228,Smartphone,6,38763,31239
+229,Backpack,2,16381,11295
+230,T-shirt,4,51771,37953
+231,Backpack,5,22274,17062
+232,T-shirt,6,395,323
+233,Bluetooth speaker,4,23869,16742
+234,Wireless earbuds,1,45121,33887
+235,Smartwatch,1,5742,4456
+236,Gaming mouse,3,4018,3043
+237,Backpack,2,41108,33496
+238,Smartwatch,1,55810,39974
+239,Bedsheets,5,10785,7499
+240,Smartphone,6,20941,18772
+241,Smartphone,5,20277,17310
+242,Laptop,4,56080,38528
+243,Water bottle,6,26035,23666
+244,Water bottle,5,46797,30178
+245,Smartwatch,2,22622,19347
+246,Gaming mouse,1,45838,39460
+247,Bedsheets,6,40871,33618
+248,Printer,3,29112,20118
+249,Laptop,3,17639,11070
+250,T-shirt,6,46159,32116
+251,Coffee maker,1,29682,21445
+252,Office chair,3,49362,35824
+253,T-shirt,5,38152,28425
+254,Water bottle,5,8157,5859
+255,Smartphone,3,45715,39200
+256,Water bottle,1,10362,8232
+257,Bedsheets,6,15384,12743
+258,Smartwatch,5,37919,32902
+259,Gaming mouse,3,14973,11335
+260,Wireless earbuds,2,19577,15746
+261,Smartphone,5,1687,1460
+262,Smartwatch,1,23825,17698
+263,Gaming mouse,4,755,572
+264,Bluetooth speaker,1,50431,38693
+265,Backpack,6,32937,24863
+266,Smartwatch,4,20582,12958
+267,Perfume,5,44043,28922
+268,Smartphone,4,2222,1439
+269,Water bottle,3,22907,20359
+270,Wireless earbuds,5,27079,22284
+271,Smartphone,5,19430,13794
+272,T-shirt,2,47527,33066
+273,Office chair,6,41092,28920
+274,Smartphone,6,24087,20647
+275,Bluetooth speaker,6,21575,16387
+276,Smartphone,1,39207,26789
+277,Bedsheets,2,47206,38214
+278,Office chair,5,20137,15123
+279,Bedsheets,4,14118,11974
+280,Smartwatch,4,45554,37553
+281,Wireless earbuds,3,6882,5913
+282,Wireless earbuds,2,34387,28672
+283,T-shirt,6,44359,34906
+284,Coffee maker,2,29230,24913
+285,Smartwatch,6,2044,1495
+286,Laptop,1,17563,13090
+287,Running shoes,5,42069,32971
+288,Printer,4,44769,37621
+289,Smartphone,4,22706,19175
+290,Coffee maker,1,16821,13304
+291,Wireless earbuds,6,39983,35297
+292,Laptop,1,42630,37566
+293,Smartwatch,3,9828,8716
+294,Bluetooth speaker,6,38226,28756
+295,Laptop,5,53762,34377
+296,Running shoes,6,8967,6790
+297,Printer,3,6081,4516
+298,Running shoes,1,44362,31754
+299,Bluetooth speaker,1,12751,9762
+300,Running shoes,4,42934,27542
